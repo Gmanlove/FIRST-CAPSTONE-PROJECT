@@ -1,143 +1,72 @@
-<a name="African Technological Summit"></a>
-<div align="center">
-  <br/>
-  <h2><b>African Technological Summit</b></h2>
-</div>
-# 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+# DREAMVIEW COMMONS GLOBAL SUMMIT (FIRST-CAPSTONE-PROJECT )
 
-# 📖 [African Technological Summit] <a name="FIRST-CAPSTONE-PROJECT">FIRST-CAPSTONE-PROJECT</a>
+> This project is about Dreamview common summit which bring Techonogical experts from different part of the world for a conference.
 
-This is an African Technological Summit project.
-This project is a mobile and desktop responsive page.
+## Live
+[Go live with me using this link](https://www.loom.com/share/bf2eb1a08afb4a9fbafd9b1f0612325c)
 
-## 🛠 Built With <a name="built-with">Html, css and javascript</a>
 
-### Tech Stack <a name="tech-stack">HTML5, CSS3, Javacript</a>
+[Live Server](https://github.com/Gmanlove/FIRST-CAPSTONE-PROJECT/)
 
-HTML5 and css3 were used in this project.
+## Built With
 
-<!-- Features -->
+- Html
+- CSS
+- JavaScript
 
-### Key Features <a name="key-features"></a>
+## Additional Tools
 
-- **[key_feature_1]** This project built with HTML5 CSS3 and javascript
-- **[key_feature_2]** Responsive mobile design website
-- **[key_feature_3]** Responsive desktop design website
+- WebHint
+- Stylelint
+- ESlint
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link]()
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
- Get your pc.
- Clone this project to your local machine. 
-
-To get a local copy up and running, follow these steps.
+## Getting Started
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-Basic knownledge of computer.
-
-In order to run this project you need:
-live server.
+```
+node js
+npm
+```
 
 ### Setup
-
-Clone this repository to your desired folder:
-git@github.com:Gmanlove/FIRST-CAPSTONE-PROJECT.git
+Clone this repository or download the Zip folder:
+```
+$ git clone git@github.com:Gmanlove/FIRST-CAPSTONE-PROJECT.git
+$ cd FIRST-CAPSTONE-PROJECT
+```
 
 ### Install
+Install all project dependencies by running the command below
+```
+$ npm install
+```
 
-Install this project with:
-cd FIRST-CAPSTONE-PROJECT.git
+## Test
+To track linter errors locally follow these steps:  
+Track HTML linter errors run:
+```
+npx hint .
+```
+Track CSS linter errors run:
+```
+npx stylelint "**/*.{css,scss}"
+```
+Track JavaScript linter errors run:
+```
+npx eslint .
+```
 
-### Run tests
-
-To run tests, run the following command:
-npm test
-
-### Deployment
-
-You can deploy this project using:
-github pages.
-
-<!-- AUTHORS -->
-
-## 👥 Author(s) <a name="authors"></a>
-
-👤 **Author1**
+## Author
+👤 **Obi Emmanuel**
 
 - GitHub: [@Gmanlove](https://github.com/Gmanlove)
 
-
-<!-- CONTRIBUTING -->
-
-
-<!-- Future Features--->
-- **[future_feature_1]** In the future I will replace thge images in the page
-- **[future_feature_2]** I will improve the logo looks.
-- **[future_feature_3]** Contact section so that conference quest can contact host.
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page]().
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-If you like this project give a ⭐️.
-
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## ⭐️ ACKNOWLEDGEMENTS <a name="Cindy Shin"></a>
-
-Origined designed by Cindy Shin in Behance.
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-👤 **Author**
-
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!  
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -145,7 +74,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- 
+- I would like to give Credit to [Cindy Shin](https://www.behance.net/adagio07) the [author of the original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), as required by the [Creative Commons License](https://creativecommons.org/licenses/).
+
 
 ## 📝 License
 
