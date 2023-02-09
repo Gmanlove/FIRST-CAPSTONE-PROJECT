@@ -1,13 +1,20 @@
 
 # DREAMVIEW COMMONS GLOBAL SUMMIT (FIRST-CAPSTONE-PROJECT )
 
-> This project is about Dreamview common summit which bring Techonogical experts from different part of the world for a conference.
+- This project is about Dreamview common summit which bring Techonogical experts from different part of the world for a conference.
 
 ## Live
+
+- [Live Demo Link](https://gmanlove.github.io/FIRST-CAPSTONE-PROJECT/)
+
 [Go live with me using this link](https://www.loom.com/share/bf2eb1a08afb4a9fbafd9b1f0612325c)
 
 
-[Live Server](https://github.com/Gmanlove/FIRST-CAPSTONE-PROJECT/)
+### DREAMVIEW COMMONS SUMMIT SCREENSHOT
+
+![lead](images/Screenshot%202023-02-09%20at%2021.00.32.png)
+![lead1](images/Screenshot%202023-02-09%20at%2021.01.07.png)
+
 
 ## Built With
 
